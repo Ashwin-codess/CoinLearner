@@ -35,15 +35,13 @@ market simulation for educational purposes.
 ## Screenshots
 
 ### Home Page
-![home page](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-### Login Page
-![home page](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![home page](screenshots/s1.jpg)
 ### Currency info Page
-![home page](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![home page](screenshots/s2.jpg)
 ### User investments tab
-![home page](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![home page](screenshots/s3.jpg)
 ### User History tab
-![home page](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![home page](screenshots/s4.jpg)
 
 
 
