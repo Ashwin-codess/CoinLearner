@@ -34,13 +34,20 @@ market simulation for educational purposes.
 
 ## Screenshots
 
-### Home Page
+## Home Page
+
 <img src="screenshots/s1.jpg" alt="Example Image" height="300">
-### Currency info Page
+
+## Currency info Page
+
 <img src="screenshots/s4.jpg" alt="Example Image"  height="300">
-### User investments tab
+
+## User investments tab
+
 <img src="screenshots/s2.jpg" alt="Example Image"  height="300">
-### User History tab
+
+## User History tab
+
 <img src="screenshots/s3.jpg" alt="Example Image"  height="300">
 
 
